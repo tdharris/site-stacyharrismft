@@ -60,3 +60,4 @@ typings/
 
 # Other
 .vscode-upload.json
+.vercel
