@@ -120,7 +120,7 @@ aside
 aside div { width: inherit; padding-left: 15px; }
 aside h5 { font-size: 0.80em; margin: 10px 0px 0px; font-weight: bold; line-height: 90%; }
 aside h6 { font-size: 0.68em; font-weight: normal; margin: 5px 0px 10px 0px; }
-aside address { font-size: 0.60em; font-weight: normal; }
+aside div.contact { font-size: 0.70em; font-weight: normal; margin: 0; padding: 0; }
 aside div { float: left; margin-left: 10px; }
 
 footer
